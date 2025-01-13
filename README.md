@@ -3,7 +3,8 @@
 
 Hi! I'm Alexis Luevanos, a passionate Computer Engineering major with a minor in Data Science. My work spans diverse programming projects, including Artificial Intelligence (AI), Data Science, and Machine Learning.
 
-You can also check out my portfolio website, aluevanos.com, to explore more of my work and skills!
+You can also check out my portfolio website, [aluevanos.com](http://aluevanos.com)
+, to explore more of my work and skills!
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
