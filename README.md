@@ -27,10 +27,6 @@ Hi! I'm Alexis Luevanos, a passionate Computer Engineering major with a minor in
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/alexisluevanos11" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aluevanos&show_icons=true&locale=en" alt="aluevanos" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aluevanos&" alt="aluevanos" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aluevanos" alt="aluevanos" /></a></p>
-
 
 <!--
 **ALuevanos/ALuevanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
